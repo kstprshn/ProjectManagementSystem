@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Notification-Service/Notification-Service.iml" filepath="$PROJECT_DIR$/Notification-Service/Notification-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Notifications/Notifications.iml" filepath="$PROJECT_DIR$/Notifications/Notifications.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ProjectManagementSystem.iml" filepath="$PROJECT_DIR$/.idea/ProjectManagementSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SmartTaskFlow/SmartTaskFlow.iml" filepath="$PROJECT_DIR$/SmartTaskFlow/SmartTaskFlow.iml" />
+    </modules>
+  </component>
+</project>
