@@ -79,3 +79,6 @@ SmartTaskFlow — это <strong>REST API</strong> для управления �
 <ul>
   <li>Локальный запуск: <code>docker-compose up</code></li>
 </ul>
+
+<h2 align="center">🧩Архитектурная схема системы</h2>
+<img src="https://github.com/kstprshn/ProjectManagementSystem/raw/main/system_sheme.png" alt="System Scheme" width="1050"/>
